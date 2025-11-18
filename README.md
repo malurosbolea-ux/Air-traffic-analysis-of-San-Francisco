@@ -16,8 +16,10 @@ Este proyecto presenta un análisis exhaustivo del tráfico aéreo del Aeropuert
 **Desarrollado por:** María Luisa Ros Bolea  
 **Fecha:** Noviembre 2025  
 **Dataset:** Air Traffic Passenger Statistics - San Francisco International Airport
+Análisis en profundidad en el PDF
 
----
+--[Análisis 360º del tráfico aereo de San Francisco DEF.pdf](https://github.com/user-attachments/files/23601859/Analisis.360.del.trafico.aereo.de.San.Francisco.DEF.pdf)
+-
 
 ## 🎯 Objetivos del análisis
 
